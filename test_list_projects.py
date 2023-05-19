@@ -130,7 +130,7 @@ class TestListProject(TestBase):
         self.delete_all_projects(del_all=True)
 
         input_data = [
-            'test_data/p-01.mp4',
+            'test_data/p-04.mp4',
             'test_data/p-02.mp4',
             'test_data/p-03.mp4'
         ]
